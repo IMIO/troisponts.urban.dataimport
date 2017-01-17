@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+  <layer
+      name="troisponts.urban.dataimport"
+      interface="troisponts.urban.dataimport.interfaces.ITroispontsUrbanDataimportLayer"
+  />
+</layers>

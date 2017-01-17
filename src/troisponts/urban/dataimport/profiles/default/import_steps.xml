@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<import-steps>
+
+ <import-step
+    id="troisponts.urban.dataimport-troispontsUrbawebImport"
+    handler="troisponts.urban.dataimport.importer.importTroispontsUrbaweb"
+    title="Urbaweb import for Troisponts">
+  Urbaweb import for Troisponts
+ </import-step>
+
+</import-steps>
