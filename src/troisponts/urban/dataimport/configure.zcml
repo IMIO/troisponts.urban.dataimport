@@ -40,7 +40,7 @@
     <adapter
         for="troisponts.urban.dataimport.settings.TroispontsImporterSettingsForm"
         factory=".settings.TroispontsImporterFromImportSettings"
-        provides="imio.urban.dataimport.agorawin.interfaces.IAgorawinDataImporter"
+        provides="imio.urban.dataimport.access.interfaces.IAccessImporter"
     />
 
 </configure>
